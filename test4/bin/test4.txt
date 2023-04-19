@@ -1,0 +1,31 @@
+4 - Dois veículos (um carro e um caminhão) saem respectivamente de cidades opostas pela mesma rodovia. O carro de Ribeirão Preto em direção a Franca, a uma velocidade constante de 110 km/h e o caminhão de Franca em direção a Ribeirão Preto a uma velocidade constante de 80 km/h. Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?  
+
+   
+
+IMPORTANTE:  
+
+a)            Considerar a distância de 100km entre a cidade de Ribeirão Preto <-> Franca.  
+
+b)           Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mais para passar em cada um deles e o carro possui tag de pedágio (Sem Parar)  
+
+c)            Explique como chegou no resultado. 
+
+----------------------------------------------------------------------------------------------------
+
+Resposta: 
+Como a distância entre Ribeirão Preto e Franca é de 100 km, cada veículo percorreu 50 km antes de se encontrarem.
+
+O carro estava se deslocando a uma velocidade constante de 110 km/h, enquanto o caminhão estava se deslocando a uma velocidade constante de 80 km/h. 
+Isso significa que o carro percorreu os primeiros 50 km em 50/110 = 0,45 horas (ou 27 minutos) e o caminhão percorreu os primeiros 50 km em 50/80 = 0,625 horas (ou 37,5 minutos).
+
+Agora, precisamos considerar os dois pedágios como obstáculos. Sabendo que o caminhão leva 5 minutos a mais para passar em cada um deles, podemos adicionar 10 minutos (ou 0,167 horas) ao tempo total do caminhão.
+
+Assim, o tempo total que o carro leva para percorrer os 50 km + os pedágios é de 0,45 horas. Já o tempo total que o caminhão leva para percorrer os 50 km + os pedágios é de 0,625 + 0,167 + 0,167 = 0,959 horas.
+
+Agora podemos calcular a distância percorrida por cada veículo até o ponto de encontro:
+
+Distância percorrida pelo carro = 110 km/h x 0,45 h = 49,5 km
+Distância percorrida pelo caminhão = 80 km/h x 0,959 h = 76,72 km
+
+Portanto, quando eles se cruzarem na rodovia, o carro estará mais próximo da cidade de Ribeirão Preto. 
+Ele estará a 0,5 km de distância, enquanto o caminhão estará a 23,28 km de distância
